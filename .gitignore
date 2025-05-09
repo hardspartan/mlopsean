@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+venv/
+
+# Archivos de MLflow local
+mlruns/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pkl
+
+# VSCode settings
+.vscode/
+
